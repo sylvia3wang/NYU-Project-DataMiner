@@ -15,7 +15,3 @@ This project builds up a bitcoin trading system so the user can buy and sell bit
 - Build up bitcoin database in MySQL（set charset as utf8）
 - Import bitcoin.sql into database
 - Go to root directory，excute code：python bitcoin.py
-
-## Contact
-
-zy1076@nyu.edu sw3933@nyu.edu cz1596@nyu.edu 
