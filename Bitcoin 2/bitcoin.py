@@ -274,7 +274,7 @@ def get_realtime_price(cointype, float_num=False):
 
 def get_connection():
 	return mc.connect(user='root',
-	password='MOONmoon.77',
+	password='sylvia3wang',
 	host='127.0.0.1',
 	database='bitcoin',
 	auth_plugin='mysql_native_password')
